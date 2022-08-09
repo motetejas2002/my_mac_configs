@@ -1,5 +1,5 @@
 export BASH_SILENCE_DEPRECATION_WARNING=1
-export PS1='\[\e[01;34m\][\t][\u]:\[\e[0m\]\w\[\e[0m\]\$ '
+export PS1='\[\e[03;34m\][\t][\u]:\[\e[0m\]\w\[\e[0m\]\$ '
 export EDITOR='vim'
 # export CLICOLOR=1
 export PATH=/opt/homebrew/bin:$PATH
